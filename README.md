@@ -53,4 +53,4 @@ if (line) {
 
 # Result
 
-[alt text](https://ibb.co/WvCfGcJ 'result')
+![alt text](https://ibb.co/WvCfGcJ)
