@@ -1,8 +1,9 @@
 {
   "name": "el-connect-line",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "create line to connect between 2 html element",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
