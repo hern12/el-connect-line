@@ -1,4 +1,4 @@
-interface LineConfig {
+export interface LineConfig {
   x: number;
   y: number;
   width: number;

@@ -1,10 +1,9 @@
 {
   "name": "el-connect-line",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "create line to connect between 2 html element",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "jest --config jestconfig.json",
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "tslint -p tsconfig.json",
@@ -14,13 +13,9 @@
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://5937b1bcf273f850230d2698e0ef389b4a12c395@github.com/hern12/el-connect-line.git"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Kimbly",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hern12/el-connect-line/issues"
   },
